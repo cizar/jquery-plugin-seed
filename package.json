@@ -1,0 +1,23 @@
+{
+  "name": "jquery-plugin-seed",
+  "version": "1.0.0",
+  "description": "Minimal jQuery Plugin Seed",
+  "main": "src/jquery.pluginName.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cizar/jquery-plugin-seed.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "Cesar Kastli <cesarkastli@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cizar/jquery-plugin-seed/issues"
+  },
+  "homepage": "https://github.com/cizar/jquery-plugin-seed"
+}
