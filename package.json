@@ -1,6 +1,6 @@
 {
   "name": "jquery-plugin-seed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal jQuery Plugin Seed",
   "main": "src/jquery.pluginName.js",
   "scripts": {
