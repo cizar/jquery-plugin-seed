@@ -9,6 +9,7 @@
   var Plugin = function(element, options) {
     this._element = element;
     this._options = $.extend({}, defaults, options, $(element).data());
+    this._init();
   };
 
   Plugin.prototype._init = function() {
